@@ -3,15 +3,12 @@
 This project contains no practical purpose, other than for me to learn about
 the Pygame library through trial-and-error and personal experimentation.
 
-This project is not licensed or copywrited, so feel free to re-use this as
-you wish unless otherwise indicated.
-
-NOTE: This is incomplete, and has some definite rough edges. I plan to
+**NOTE**: This is incomplete, and has some definite rough edges. I plan to
 refine it in my free time when I get around to it. This is just a "for-fun"
 project, and serves no practical purpose.
 
 ## TODO:
-* Add score counter
+* Add score counter (10 points per "dot" collected?)
 * Reduce snake speed
 * Make the game paused by default, requiring movement key to begin.
 * Increase default canvas dimensions
