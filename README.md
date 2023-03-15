@@ -10,7 +10,7 @@ NOTE: This is incomplete, and has some definite rough edges. I plan to
 refine it in my free time when I get around to it. This is just a "for-fun"
 project, and serves no practical purpose.
 
-#### TODO:
+## TODO:
 * Add score counter
 * Reduce snake speed
 * Make the game paused by default, requiring movement key to begin.
