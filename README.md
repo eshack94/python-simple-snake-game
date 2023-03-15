@@ -10,9 +10,10 @@ NOTE: This is incomplete, and has some definite rough edges. I plan to
 refine it in my free time when I get around to it. This is just a "for-fun"
 project, and serves no practical purpose.
 
-##### TODO:
+#### TODO:
 * Add score counter
 * Reduce snake speed
+* Make the game paused by default, requiring movement key to begin.
 * Increase default canvas dimensions
 * Fix the "GAME OVER" text overlay.
     * Make text smaller and better aligned; change font.
@@ -29,3 +30,8 @@ Make sure your system is running Python 3, then run:
 pip3 install -r requirements.txt
 python3 simple_snake_game.py
 ```
+
+You can move with your keyboard's arrow keys, or with WASD keys. Note that
+currently, the snake starts moving immediately, so you'll have to instantly
+change directions to avoid hitting a wall. I plan to fix this so that a key
+must first be pressed to begin the game.
