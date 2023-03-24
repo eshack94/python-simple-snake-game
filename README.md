@@ -19,6 +19,7 @@ project, and serves no practical purpose.
 * Pick a better color palette.
 * Add borders and more immersive shapes/textures.
 
+
 ## Usage
 
 Make sure your system is running Python 3, then run:
